@@ -5,6 +5,9 @@
 // 30.1 end
 // 30.3 end
 // 30.4 end
-const add = (a, b) => a + b; // arrow function in one line
-console.log(add(5, 6));
 // 30.5 end
+const aboutComponent = {
+	img: "",
+	title: "500K+",
+	shortDescription: "Registered users",
+};

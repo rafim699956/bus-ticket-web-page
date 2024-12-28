@@ -10,6 +10,7 @@ module.exports = {
 		},
 		fontFamily: {
 			body: ['"Raleway", "Open Sans"'],
+			inter: ['"Inter", "Open Sans"'],
 		},
 		extend: {
 			colors: {
